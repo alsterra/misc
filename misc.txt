@@ -1,6 +1,6 @@
 Misc Resolution
 - Consistently make content 2x per week
 - Make platform to discuss some math programming
-- Make discussion forum
 - Redo learning about building architecture
 - Make lite tutorials
+- Make vlogs
